@@ -4,9 +4,6 @@
 # Created on March 2022
 # This is a program that calculates circumference using constants
 
-import constants
-
-
 def main():
 
     # Input
